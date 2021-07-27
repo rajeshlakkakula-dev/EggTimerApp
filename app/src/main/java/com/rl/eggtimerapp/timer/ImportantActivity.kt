@@ -1,7 +1,8 @@
-package com.rl.eggtimerapp
+package com.rl.eggtimerapp.timer
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.rl.eggtimerapp.R
 
 class ImportantActivity : AppCompatActivity() {
 
